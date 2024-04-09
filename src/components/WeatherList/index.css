@@ -7,3 +7,9 @@
 .city-details {
   font-size: 0.8em;
 }
+
+.error{
+  color: red;
+  font-size: small;
+  padding: 5px;
+}
